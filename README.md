@@ -23,6 +23,6 @@ GNU Lesser General Public License (LGPL). Please see the file LICENSE for detail
 
 Reference
 =======================================================================
-If you doing something with the help of this code,  please consider citing:
-
+If you do something with the help of this code,  please consider citing:
+Zhenlin Wang, "Parallel Level set algorithm with MPI and accelerated on GPU", arXiv:1612.04040
 
